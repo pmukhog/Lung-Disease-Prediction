@@ -1,6 +1,8 @@
 # Lung-Disease-Prediction
 Detection and classification of lung anomalies in chest CT scans
 ![b](https://github.com/user-attachments/assets/7c04fc6c-6b9d-42c4-a80a-818d63144078)
+
+
 Human lung anomalies, including diseases like pneumonia, edema, and 
 tuberculosis, are somewhat common in today's culture. A few image processing techniques 
 used for lung illness prediction are Convolutional Neural Network (CNN), Visual Geometry 
@@ -14,5 +16,7 @@ preprocessing techniques like feature selection, data augmentation, and dimensio
 reduction are essential. The study's overall goal was to produce trustworthy and precise 
 predictions of lung ailments based on the imagery and to show how effective it is to use the 
 particular combination of deep learning algorithms.
+
+
 ![a](https://github.com/user-attachments/assets/43f5513b-e832-4911-ba33-1157c2192f72)
 
