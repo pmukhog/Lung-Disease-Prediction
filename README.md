@@ -17,7 +17,6 @@ predictions of lung ailments based on the imagery and to show how effective it i
 particular combination of deep learning algorithms.
 
 
-![b](https://github.com/user-attachments/assets/7c04fc6c-6b9d-42c4-a80a-818d63144078)
+![b](https://github.com/user-attachments/assets/7c04fc6c-6b9d-42c4-a80a-818d63144078)  ![a](https://github.com/user-attachments/assets/43f5513b-e832-4911-ba33-1157c2192f72)
 
-![a](https://github.com/user-attachments/assets/43f5513b-e832-4911-ba33-1157c2192f72)
 
